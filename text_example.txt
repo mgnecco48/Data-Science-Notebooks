@@ -1,0 +1,5 @@
+Apache Spark is a powerful engine for large-scale data processing.
+Spark allows data to be processed in parallel across multiple machines.
+This notebook explores how Spark handles text data using DataFrames.
+Understanding how data is transformed helps avoid common mistakes.
+Spark provides both low-level and high-level APIs for working with data.
